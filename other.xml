@@ -1,9 +1,0 @@
-<application>
-  <component name="CPPToolchains">
-    <option name="detectedVersion" value="5" />
-    <option name="specifiedCMakeExecutablePath" value="/usr/bin/cmake" />
-    <option name="specifiedGDBExecutablePath" value="/usr/bin/gdb" />
-    <option name="useBundledCMake" value="false" />
-    <option name="useBundledGDB" value="false" />
-  </component>
-</application>
